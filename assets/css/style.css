@@ -1,0 +1,31 @@
+/* =====================RESET===================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* =====================GENERAL CSS===================== */
+.textred {
+    color: red;
+}
+.titleAdvert {
+    text-transform:uppercase;
+}
+.bgReserved {
+    background-color: rgb(184, 180, 180);
+}
+main {
+    min-height: 100vh;
+    background-color: rgb(198, 163, 231);
+}
+.card {
+    border: solid;
+    border-color: black;
+    border-width: 0.2rem;
+    box-shadow: 1rem 1rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+}
+/* =====================HEADER===================== */
+/* =====================MAIN===================== */
+/* =====================FOOTER===================== */
+/* =====================RESET===================== */
+/* =====================RESET===================== */
